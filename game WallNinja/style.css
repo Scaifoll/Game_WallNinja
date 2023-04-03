@@ -1,0 +1,16 @@
+.main{
+background-color: black;
+}
+.wallpaper-background{
+    display: flex;
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: 100%;
+    width: 100%;
+    height: 855px;
+    margin: -10px -10px;
+    position:absolute;
+    overflow-y: hidden;
+    opacity: 100%;
+}
